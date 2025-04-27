@@ -1,1 +1,1 @@
-# algorithms-and-data-structures
+This repo encompasses a variety of algorithmic challenges, solutions.
